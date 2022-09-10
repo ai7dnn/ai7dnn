@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1><img src="https://user-images.githubusercontent.com/70050528/189470314-11fd622d-170e-4364-b975-4c57166a2c97.png" width="30"/> Hey! Nice to see you.</h1>
+<h1>Hey! Nice to see you. <img src="https://user-images.githubusercontent.com/70050528/189470314-11fd622d-170e-4364-b975-4c57166a2c97.png" width="50"/> </h1>
 
 
 <p>Welcome to my page! </br> I'm Hwan Soo, professor from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Seoul, Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Seoul, Korea</b>. </p>
