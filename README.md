@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/70050528/189470314-11fd622d-170e-4364-b975-4c57166a2c97.png)
+
 <!--
 **ai7dnn/ai7dnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,5 +22,7 @@ Here are some ideas to get you started:
 
 ### 참조 깃헙 계정
 - [Thomas](https://github.com/thmsgbrt)
-
- 
+- [Thaiane Braga](https://github.com/thaiane)
+- [swyx](https://github.com/sw-yx) 
+- [coordinate-cat](https://github.com/coordinate-cat)
+- [dream-ellie](https://github.com/dream-ellie)
