@@ -12,9 +12,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-
-![image]() {: width="100" height="100"}
-
 <!--
 **ai7dnn/ai7dnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,8 +31,10 @@ Here are some ideas to get you started:
 - [드림코딩, 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)
 
 ### 참조 깃헙 계정
+- [Abhishek Naidu](https://github.com/abhisheknaiidu/)
 - [Thomas](https://github.com/thmsgbrt)
 - [Thaiane Braga](https://github.com/thaiane)
 - [swyx](https://github.com/sw-yx) 
 - [coordinate-cat](https://github.com/coordinate-cat)
 - [dream-ellie](https://github.com/dream-ellie)
+
