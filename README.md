@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/70050528/189470314-11fd622d-170e-4364-b975-4c57166a2c97.png){: width="100" height="100"}
+![image](https://user-images.githubusercontent.com/70050528/189470314-11fd622d-170e-4364-b975-4c57166a2c97.png) {: width="100" height="100"}
 
 <!--
 **ai7dnn/ai7dnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
