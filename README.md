@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 깃헙 꾸미기 참조
+- [드림코딩, 깃허브 계정 제대로 꾸미기](https://www.youtube.com/watch?v=w9DfC2BHGPA)
+
+### 참조 깃헙 계정
+- [Thomas](https://github.com/thmsgbrt)
+
+ 
