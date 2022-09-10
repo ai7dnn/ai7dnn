@@ -38,3 +38,6 @@ Here are some ideas to get you started:
 - [coordinate-cat](https://github.com/coordinate-cat)
 - [dream-ellie](https://github.com/dream-ellie)
 
+### 뱃지 만들기
+- [shields io](https://shields.io/) 
+
